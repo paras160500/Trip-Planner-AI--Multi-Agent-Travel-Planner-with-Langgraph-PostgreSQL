@@ -21,7 +21,7 @@
 </div>
 
 ---
-
+![Architecture Diagram](diagram.png)
 ## 🧠 What Is This?
 
 **TripMate AI** is a fully deployed **multi-agent travel planning system** built with LangGraph. You type a natural language travel request — *"Plan a complete 7-day Japan trip from Bangladesh under 2 lakhs"* — and four specialised AI agents execute in sequence: one searches **live flights**, one searches **hotels**, one drafts a **day-by-day itinerary**, and one compiles everything into a **beautifully formatted travel plan** with budget estimates.
